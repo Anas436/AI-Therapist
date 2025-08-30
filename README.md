@@ -12,7 +12,7 @@ Clone the repo and run:
 git clone https://github.com/Anas436/AI-Therapist.git
 ```
 
-# Setup UV if not already: 
+## Setup UV if not already: 
 
 ```
 uv sync
@@ -25,7 +25,7 @@ Creates a virtual environment (if needed)
 Installs all dependencies from uv.lock
 Sets up the full environment exactly as intended
 
-# Reference
+## Reference
 - OpenAI API Key: https://platform.openai.com/api-keys
 - Ollama Library: https://ollama.ai
 - Groq Models: https://console.groq.com
