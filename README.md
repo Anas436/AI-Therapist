@@ -4,15 +4,25 @@ Your compassionate AI companion for emotional support, built with care and real-
 
 Equipped with an AI agent architecture, specialist healthcare models (MedGemma), and life-saving tools like emergency calling via Twilio, SafeSpace is designed to support mental well-being — safely and responsibly.
 
+## 🎯 This project covered:
 
-🚀 Quick Start
+- Build AI agents with LangChain & LangGraph
+- Using MedGemma (Google’s medical LLM) locally with Ollama
+- Integrating real-world tools into agentic workflows
+- Making emergency calls via the Twilio API
+- Adding location-based services for personalized care
+- Build a clean frontend with Streamlit
+- Backend API design with FastAPI
+- Handling sensitive healthcare topics responsibly
+
+## 🚀 Quick Start
 
 Clone the repo and run:
 ```
 git clone https://github.com/Anas436/AI-Therapist.git
 ```
 
-## Setup UV if not already: 
+Setup UV if not already: 
 
 ```
 uv sync
