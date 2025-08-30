@@ -1,4 +1,4 @@
-AI Mental Health Therapist – SafeSpace
+# AI Mental Health Therapist – SafeSpace
 
 Your compassionate AI companion for emotional support, built with care and real-world tools. SafeSpace listens, understands, and responds with empathy — and knows when to escalate to emergency help.
 
